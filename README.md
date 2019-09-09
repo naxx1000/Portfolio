@@ -1,9 +1,10 @@
 ## My Portfolio
 
 [Countdown for Classic WoW](https://github.com/naxx1000/Countdown-For-Classic-WoW)
-![](https://imgur.com/Z5pj2Gv.png = 208x100)
 <br>
-<img src="https://imgur.com/Z5pj2Gv.png" width="208" height="100" />
+<a href="https://github.com/naxx1000/Countdown-For-Classic-WoW">
+	<img src="https://imgur.com/Z5pj2Gv.png" width="208" height="100" />
+</a>
 
 You can use the [editor on GitHub](https://github.com/naxx1000/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
