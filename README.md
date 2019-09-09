@@ -1,7 +1,7 @@
 ## My Portfolio
 
 [Countdown for Classic WoW](https://github.com/naxx1000/Countdown-For-Classic-WoW)
-![Countdown Classic](https://imgur.com/a/NXPB3Ip.png)
+![](https://imgur.com/Z5pj2Gv.png)
 
 You can use the [editor on GitHub](https://github.com/naxx1000/Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
