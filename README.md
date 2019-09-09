@@ -1,6 +1,6 @@
-## My Portfolio
+# My Projects
 
-[Countdown for Classic WoW](https://github.com/naxx1000/Countdown-For-Classic-WoW)
+## [Countdown for Classic WoW](https://github.com/naxx1000/Countdown-For-Classic-WoW)
 <br>
 <a href="https://github.com/naxx1000/Countdown-For-Classic-WoW">
 	<img src="https://imgur.com/Z5pj2Gv.png" width="208" height="100" />
