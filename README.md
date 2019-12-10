@@ -16,7 +16,6 @@ count down towards the next phase, when that date is announced.</i>
 <a href="https://github.com/naxx1000/KoalaColorPicker">
 	<img src="https://imgur.com/rvPpNfp.png" width="208" height="100" />
 </a>
-<br>
 <i>A color picker module that extends the AndroidX DialogFragment.
 The module can also create a five-color color-scheme from a chosen color,
 so that it can be used to easily create a beautiful application color theme.
