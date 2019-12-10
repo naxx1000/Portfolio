@@ -10,7 +10,7 @@ released. The timer can be seen directly in the application or by dragging
 the widget to the home screen. When Classic is released, it will begin to
 count down towards the next phase, when that date is announced.</i>
 <br>
-
+<br>
 ## [Koala Color Picker (Module)](https://github.com/naxx1000/KoalaColorPicker)
 <a href="https://github.com/naxx1000/KoalaColorPicker">
 	<img src="https://imgur.com/gj387xt.png" width="208" height="100" />
