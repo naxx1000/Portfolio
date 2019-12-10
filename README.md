@@ -13,7 +13,7 @@ count down towards the next phase, when that date is announced.</i>
 
 ## [Koala Color Picker (Module)](https://github.com/naxx1000/KoalaColorPicker)
 <a href="https://github.com/naxx1000/KoalaColorPicker">
-	<img src="https://imgur.com/rvPpNfp.png" width="208" height="100" />
+	<img src="https://imgur.com/gj387xt.png" width="208" height="100" />
 </a>
 <br>
 <i>A color picker module that extends the AndroidX DialogFragment.
