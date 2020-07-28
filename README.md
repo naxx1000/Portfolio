@@ -12,8 +12,13 @@ count down towards the next phase, when that date is announced.</i>
 <br>
 <br>
 
-## [Coin Follow](https://github.com/naxx1000/CoinFollowProject)
-
+## [Game of Sudoku](https://github.com/naxx1000/GameOfSudoku)
+<a href="https://github.com/naxx1000/GameOfSudoku">
+	<img src="https://imgur.com/a/TLIfzPQ.png" width="208" height="100" />
+</a>
+<i>Simple Sudoku game that generates its own puzzles. The game has a radial number picker when inserting numbers into cells. The project is based on MVVM and uses Room Persistence Library to store the users previously finished puzzles and his/her records in each difficulty. The Sudoku cells are custom views that can show small notes/marks to help the user.</i>
+<br>
+<br>
 
 ## [Koala Color Picker (Module)](https://github.com/naxx1000/KoalaColorPicker)
 <a href="https://github.com/naxx1000/KoalaColorPicker">
