@@ -1,4 +1,4 @@
-# My Projects
+# My Android Projects
 
 ## [Countdown for Classic WoW](https://github.com/naxx1000/Countdown-For-Classic-WoW)
 <a href="https://github.com/naxx1000/Countdown-For-Classic-WoW">
@@ -11,6 +11,9 @@ the widget to the home screen. When Classic is released, it will begin to
 count down towards the next phase, when that date is announced.</i>
 <br>
 <br>
+
+## [Coin Follow](https://github.com/naxx1000/CoinFollowProject)
+
 
 ## [Koala Color Picker (Module)](https://github.com/naxx1000/KoalaColorPicker)
 <a href="https://github.com/naxx1000/KoalaColorPicker">
