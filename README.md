@@ -15,7 +15,7 @@
 </a>
 <br>
 <i>Android application that uses CoinMarketCap's REST API to retrieve and show data of the top 100 crypto coins, including price, losses and gains.</i>
-* MVVM * Retrofit * REST API * Glide
+* Java * * MVVM * * Retrofit * * Glide
 <br>
 <br>
 
