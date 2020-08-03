@@ -7,6 +7,8 @@
 <br>
 <i>Simple Sudoku game that generates its own puzzles. The game has a radial number picker when inserting numbers into cells. The project is based on MVVM and uses Room Persistence Library to store the users previously finished puzzles and his/her records in each difficulty. The Sudoku cells are custom views that can show small notes/marks to help the user.</i>
 <br>
+**• &nbsp;Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;MVVM&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Motion Layout&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Room**
+<br>
 <br>
 
 ## [Coin Follow: Crypto currency watcher](https://github.com/naxx1000/CoinFollowProject)
@@ -30,6 +32,8 @@ released. The timer can be seen directly in the application or by dragging
 the widget to the home screen. When Classic is released, it will begin to
 count down towards the next phase, when that date is announced.</i>
 <br>
+**• &nbsp;Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Widget**
+<br>
 <br>
 
 ## [Koala Color Picker (Module)](https://github.com/naxx1000/KoalaColorPicker)
@@ -41,3 +45,5 @@ count down towards the next phase, when that date is announced.</i>
 The module can also create a five-color color-scheme from a chosen color,
 so that it can be used to easily create a beautiful application color theme.
 </i>
+<br>
+**• &nbsp;Kotlin&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Module&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;• &nbsp;Custom Views**
